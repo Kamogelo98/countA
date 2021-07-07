@@ -1,4 +1,4 @@
-function count_a(word="kAmogelomashike"){
+function count_a(word="kAmogelomAshike"){
     let count=0;
     for(let i=0;i<word.length;i++){
         if(word.charAt(i)=="a"|| word.charAt(i)=="A"){
